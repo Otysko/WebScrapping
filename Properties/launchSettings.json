@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WebScrappingTrades": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

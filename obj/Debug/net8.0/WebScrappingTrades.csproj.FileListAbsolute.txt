@@ -1,0 +1,94 @@
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\WebScrappingTrades.exe
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\WebScrappingTrades.deps.json
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\WebScrappingTrades.runtimeconfig.json
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\WebScrappingTrades.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\WebScrappingTrades.pdb
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.Apis.Gmail.v1.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\WebDriver.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\System.Management.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\WebScrappingTrades.csproj.AssemblyReference.cache
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\WebScrappingTrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\WebScrappingTrades.AssemblyInfoInputs.cache
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\WebScrappingTrades.AssemblyInfo.cs
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\WebScrappingTrades.csproj.CoreCompileInputs.cache
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\WebScrap.F5F091EA.Up2Date
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\WebScrappingTrades.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\refint\WebScrappingTrades.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\WebScrappingTrades.pdb
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\WebScrappingTrades.genruntimeconfig.cache
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\obj\Debug\net8.0\ref\WebScrappingTrades.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.Cloud.Vision.V1.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.LongRunning.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Grpc.Auth.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\AWSSDK.Rekognition.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\WebScrappingTrades.exe
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\WebScrappingTrades.deps.json
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\WebScrappingTrades.runtimeconfig.json
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\WebScrappingTrades.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\WebScrappingTrades.pdb
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\AWSSDK.Rekognition.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.Apis.Gmail.v1.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.Cloud.Vision.V1.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.LongRunning.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Grpc.Auth.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\MQTTnet.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\PuppeteerSharp.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\System.Management.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\WebScrappingTrades.csproj.AssemblyReference.cache
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\WebScrappingTrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\WebScrappingTrades.AssemblyInfoInputs.cache
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\WebScrappingTrades.AssemblyInfo.cs
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\WebScrappingTrades.csproj.CoreCompileInputs.cache
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\WebScrap.F5F091EA.Up2Date
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\WebScrappingTrades.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\refint\WebScrappingTrades.dll
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\WebScrappingTrades.pdb
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\WebScrappingTrades.genruntimeconfig.cache
+C:\Users\DavidKuncar\OneDrive - eltomas.cz\Projekty\Moje\WebScrappingTrades - puppeteer\obj\Debug\net8.0\ref\WebScrappingTrades.dll
